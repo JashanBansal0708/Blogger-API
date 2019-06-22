@@ -1,4 +1,4 @@
-#[Blogger API](http://my-blogging-api.herokuapp.com/)
+# Blogger API
 
 > This is a complete backend API for a Blogging App written in [Node.js](https://nodejs.org/) and [GraphQL](https://graphql.org/).
 
@@ -16,4 +16,4 @@
 
 ### Note:
 
-Plz contact me if you wants to work on the front-end part for the app. I will explain you the all the nitty-gritty details of using it, but for that you have to be good at javascript.
+Plz contact me if you want to work on the front-end part for the app. I will explain you the all the nitty-gritty details of using it, but for that you have to be good at javascript.
